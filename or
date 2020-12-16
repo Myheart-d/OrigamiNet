@@ -1,0 +1,2 @@
+bash ich17/ich.sh $ICH_DEST
+python train.py --gin ich17/ich.gin
